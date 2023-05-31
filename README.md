@@ -57,7 +57,7 @@ Agradecemos à comunidade mágica de intérpretes de sonhos, que dedicaram suas 
 
 ## Compartilhe seu Feedback
 
-Valorizamos seu feedback! Se você tiver alguma sugestão, ideia ou experiências mágicas ao usar o Mistérios dos Sonhos - Interpretador de Sonhos Online, entre em contato conosco pelo e-mail dreaminterpreter@example.com.
+Valorizamos seu feedback! Se você tiver alguma sugestão, ideia ou experiências mágicas ao usar o Mistérios dos Sonhos - Interpretador de Sonhos Online, entre em contato conosco pelo e-mail contato.matheusteixeira@gmail.com.
 
 **Observação:** O Mistérios dos Sonhos - Interpretador de Sonhos Online é um projeto experimental e as interpretações fornecidas são apenas para fins de entretenimento. Os significados atribuídos aos sonhos são subjetivos e podem variar com base nas experiências e crenças individuais.
 
