@@ -1,10 +1,10 @@
-# Dream Interpreter 🌙✨
+# Mistérios dos Sonhos - Interpretador de Sonhos Online 🌙✨
 
-Bem-vindo ao Dream Interpreter, uma ferramenta mágica que o ajuda a desvendar os significados ocultos dos seus sonhos. Revela os segredos do seu subconsciente e obtenha insights sobre o seu mundo interior.
+Bem-vindo ao Mistérios dos Sonhos - Interpretador de Sonhos Online, uma ferramenta mágica que o ajuda a desvendar os significados ocultos dos seus sonhos. Revela os segredos do seu subconsciente e obtenha insights sobre o seu mundo interior.
 
-## O que é o Dream Interpreter?
+## O que é o Mistérios dos Sonhos - Interpretador de Sonhos Online?
 
-O Dream Interpreter é um aplicativo web projetado para ajudá-lo a interpretar seus sonhos. Utiliza o poder da tecnologia avançada de IA para fornecer interpretações personalizadas com base nos detalhes que você fornece sobre seu sonho.
+O Mistérios dos Sonhos - Interpretador de Sonhos Online é um aplicativo web projetado para ajudá-lo a interpretar seus sonhos. Utiliza o poder da tecnologia avançada de IA para fornecer interpretações personalizadas com base nos detalhes que você fornece sobre seu sonho.
 
 ## Recursos
 
@@ -16,17 +16,17 @@ O Dream Interpreter é um aplicativo web projetado para ajudá-lo a interpretar 
 
 ## Como Usar
 
-1. Abra o aplicativo Dream Interpreter em seu navegador da web preferido.
+1. Abra o aplicativo Mistérios dos Sonhos - Interpretador de Sonhos Online em seu navegador da web preferido.
 
 2. Insira a descrição do seu sonho na área de texto fornecida.
 
 3. Clique no botão "Interpretar" para enviar seu sonho e receber sua interpretação.
 
-4. Prepare-se para embarcar em uma jornada mística enquanto o Dream Interpreter decifra as mensagens ocultas do seu sonho.
+4. Prepare-se para embarcar em uma jornada mística enquanto o Mistérios dos Sonhos - Interpretador de Sonhos Online decifra as mensagens ocultas do seu sonho.
 
 ## Tecnologias Utilizadas
 
-O Dream Interpreter é construído utilizando as seguintes tecnologias:
+O Mistérios dos Sonhos - Interpretador de Sonhos Online é construído utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
@@ -38,7 +38,7 @@ O Dream Interpreter é construído utilizando as seguintes tecnologias:
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/seu-nome/dream-interpreter.git
+   git clone https://github.com/aeusteixeira/misterios-dos-sonhos
    ```
 
 2. Navegue até o diretório do projeto.
@@ -57,15 +57,15 @@ Agradecemos à comunidade mágica de intérpretes de sonhos, que dedicaram suas 
 
 ## Compartilhe seu Feedback
 
-Valorizamos seu feedback! Se você tiver alguma sugestão, ideia ou experiências mágicas ao usar o Dream Interpreter, entre em contato conosco pelo e-mail dreaminterpreter@example.com.
+Valorizamos seu feedback! Se você tiver alguma sugestão, ideia ou experiências mágicas ao usar o Mistérios dos Sonhos - Interpretador de Sonhos Online, entre em contato conosco pelo e-mail dreaminterpreter@example.com.
 
-**Observação:** O Dream Interpreter é um projeto experimental e as interpretações fornecidas são apenas para fins de entretenimento. Os significados atribuídos aos sonhos são subjetivos e podem variar com base nas experiências e crenças individuais.
+**Observação:** O Mistérios dos Sonhos - Interpretador de Sonhos Online é um projeto experimental e as interpretações fornecidas são apenas para fins de entretenimento. Os significados atribuídos aos sonhos são subjetivos e podem variar com base nas experiências e crenças individuais.
 
-🌙✨ Abraçe o mundo místico dos sonhos e desbloqueie os segredos dentro de você! O Dream Interpreter está aqui para guiá-lo em sua jornada encantadora. Deixe seus sonhos revelarem suas verdades ocultas! ✨🌙
+🌙✨ Abraçe o mundo místico dos sonhos e desbloqueie os segredos dentro de você! O Mistérios dos Sonhos - Interpretador de Sonhos Online está aqui para guiá-lo em sua jornada encantadora. Deixe seus sonhos revelarem suas verdades ocultas! ✨🌙
 
 ## Colaboração
 
-O Dream Interpreter é um projeto de código aberto e encorajamos a colaboração da comunidade para torná-lo ainda mais mágico e poderoso. Se você gostaria de contribuir, siga as etapas abaixo:
+O Mistérios dos Sonhos - Interpretador de Sonhos Online é um projeto de código aberto e encorajamos a colaboração da comunidade para torná-lo ainda mais mágico e poderoso. Se você gostaria de contribuir, siga as etapas abaixo:
 
 1. Faça um fork deste repositório e clone-o para o seu ambiente local.
 
@@ -79,8 +79,8 @@ O Dream Interpreter é um projeto de código aberto e encorajamos a colaboraçã
 
 6. Envie um pull request com suas alterações e uma descrição detalhada do que foi realizado.
 
-7. Nossa equipe de desenvolvimento revisará sua contribuição e, se estiver de acordo com os objetivos do projeto, incorporará suas alterações ao Dream Interpreter.
+7. Nossa equipe de desenvolvimento revisará sua contribuição e, se estiver de acordo com os objetivos do projeto, incorporará suas alterações ao Mistérios dos Sonhos - Interpretador de Sonhos Online.
 
-Agradecemos antecipadamente pelo seu interesse em colaborar comigo! Juntos, podemos tornar o Dream Interpreter uma ferramenta ainda mais poderosa e fascinante para todos os usuários. Se você tiver alguma dúvida ou precisar de assistência durante o processo de colaboração, entre em contato conosco pelo e-mail contato.matheusteixeira@gmail.com
+Agradecemos antecipadamente pelo seu interesse em colaborar comigo! Juntos, podemos tornar o Mistérios dos Sonhos - Interpretador de Sonhos Online uma ferramenta ainda mais poderosa e fascinante para todos os usuários. Se você tiver alguma dúvida ou precisar de assistência durante o processo de colaboração, entre em contato conosco pelo e-mail contato.matheusteixeira@gmail.com
 
 Que a magia da colaboração esteja com você! ✨🌟
