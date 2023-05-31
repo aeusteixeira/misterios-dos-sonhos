@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f2739;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.photo {
+    height: 250px;
+    width: 250px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f5af18;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #f5af18;
+}
+
+.example {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 300;
+    color: #fff;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #f5af18;
+    border-radius: 4px;
+    background-color: #1f2739;
+    color: #fff;
+}
+
+input[type="submit"] {
+    background-color: #f5af18;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+    background-color: #c57c00;
+}
+
+#dream,
+#interpretation {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#dream::before {
+    content: "💤";
+    font-weight: 400;
+}
+
+#interpretation::before {
+    content: "🔮";
+    font-weight: 400;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    .photo {
+        height: 200px;
+        width: 200px;
+    }
+
+    h2 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    textarea {
+        font-size: 14px;
+    }
+}
